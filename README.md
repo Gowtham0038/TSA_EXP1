@@ -1,5 +1,8 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+###  Date: 8/03/2025
+### GOWTHAM C
+### 21224240046
+
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
